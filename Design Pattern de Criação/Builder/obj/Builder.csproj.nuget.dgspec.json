@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Factory Method\\Factory Method.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Factory Method\\Factory Method.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Factory Method\\Factory Method.csproj",
-        "projectName": "Factory Method",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Factory Method\\Factory Method.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Builder\\Builder.csproj",
+        "projectName": "Builder",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Factory Method\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

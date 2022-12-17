@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hu7vaoxYYLHF6hxYYc/+7NvHGp+4QNGE7PAjr4GluV2ol7Mkwc4XvSB4FGQmuFbCsVYre2qIuqNfjTOUBy/omw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Builder\\Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

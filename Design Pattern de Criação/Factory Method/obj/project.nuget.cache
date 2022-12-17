@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rd5nAXp6R2BVK4k0q/6SuNO85SNR/9oJRz8dww3NSLffMrtIO+bomtOBdGlaJxkjugrKN8xYgVM+pSelXzZAJw==",
+  "dgSpecHash": "aTA3JVXDxch7T+XJWIiDaTTtyknh720R399RmPpyBWZvPM3k2KVg92fo8Pc4T46hTJ8MCzAaEMvGbUnG4rMRtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Estudos\\Design-Patterns-CSharp\\Design Pattern de Criação\\Factory Method\\Factory Method.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GIT\\Design-Patterns-CSharp\\Design Pattern de Criação\\Factory Method\\Factory Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
