@@ -19,3 +19,6 @@ Em nossos exemplos serão feito referências à jogos, para melhor exemplificaç
 - Design Patterns de _Criação_
 - Design Patterns de _Extruturas_
 - Design Patterns de _Comportamento_
+
+![image](https://user-images.githubusercontent.com/79027384/208254028-7c54ede4-8742-4d7f-82d8-f1d948f34494.png)
+
